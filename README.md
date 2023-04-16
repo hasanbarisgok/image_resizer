@@ -25,6 +25,14 @@ To use the application, simply click on the "Browse files" button and select one
 
 The resized images will be saved in a new folder called "resized_images" in the project directory.
 
+
+![main_screen](https://github.com/hasanbarisgok/st_image_resizer/blob/main/images_from_app/mainscreen.png)
+![select_files](https://github.com/hasanbarisgok/st_image_resizer/blob/main/images_from_app/select_files.png)
+![insert_width_height_values](https://github.com/hasanbarisgok/st_image_resizer/blob/main/images_from_app/insert_values.png)
+![after_click_resized_button](https://github.com/hasanbarisgok/st_image_resizer/blob/main/images_from_app/resized_images.png)
+![resized_images_in_their_new_folder](https://github.com/hasanbarisgok/st_image_resizer/blob/main/images_from_app/all_jobs_are_done.png)
+
+
 ## Contributing
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes. All contributions are welcome!
 
