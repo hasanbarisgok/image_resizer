@@ -1,4 +1,4 @@
-# Streamlit Image Resizer
+# Streamlit Batch Image Resizer
 This is a simple image resizing application built using Streamlit and PIL (Python Imaging Library) that allows users to upload images and resize them by specifying the desired width and height.
 
 ## Getting Started
